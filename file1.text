@@ -1,7 +1,11 @@
 
-#program for odd even number
+#program for odd-even number
 number=int(input("enter any number"))
 if number % 2 == 0:
 	print("even number")
 else:
 	print("odd number")
+
+#SIpalaya version 2
+for i in range(100):
+	print (i)
